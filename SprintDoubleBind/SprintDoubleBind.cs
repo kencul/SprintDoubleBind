@@ -11,7 +11,7 @@ using UnityEngine;
 namespace SprintDoubleBind
 {
     // Dependency to risk of options
-    [BepInDependency("com.rune580.riskofoptions")]
+    [BepInDependency("com.rune580.riskofoptions", BepInDependency.DependencyFlags.SoftDependency)]
     // This attribute is required, and lists metadata for your plugin.
     [BepInPlugin(PluginGUID, PluginName, PluginVersion)]
     public class SprintDoubleBind : BaseUnityPlugin
