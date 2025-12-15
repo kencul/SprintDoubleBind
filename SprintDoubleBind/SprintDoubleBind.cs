@@ -1,7 +1,6 @@
 using BepInEx;
 using BepInEx.Configuration;
 using On.RoR2;
-using R2API.Utils;
 using RiskOfOptions;
 using RiskOfOptions.OptionConfigs;
 using RiskOfOptions.Options;
@@ -17,7 +16,7 @@ namespace SprintDoubleBind
     public class SprintDoubleBind : BaseUnityPlugin
     {
         public const string PluginGUID = PluginAuthor + "." + PluginName;
-        public const string PluginAuthor = "kenculator";
+        public const string PluginAuthor = "kencul";
         public const string PluginName = "SprintDoubleBind";
         public const string PluginVersion = "1.0.0";
 
