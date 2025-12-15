@@ -35,3 +35,8 @@ Allows binding any key, mouse button and mouse scroll up and down to toggle spri
 - **SprintScrollDownEnabled**: If enabled, scrolling your mouse wheel down will toggle sprint.
 - **SprintKeyEnabled**: If enabled, allows the use of the custom keyboard/mouse bind below to toggle sprint.
 - **SprintBindKey**: The key or mouse button that toggles sprint (if Sprint Key Enabled is true). Supports all standard keys and mouse buttons.
+
+## Special Thanks
+
+- Kyryh for their [Permaping](https://github.com/Kyryh/PermaPings) mod used as a reference
+- @.score and @gchinchi for help in the RoR2 modding discord
