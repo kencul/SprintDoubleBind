@@ -10,7 +10,7 @@ Allows binding any key, mouse button and mouse scroll up and down to toggle spri
 
 - Add a secondary bind to a side mouse button, so sprinting is easier when your vanilla keybind is awkward to use. Ex. charging a loader punch then sprinting.
 
-- Binding scroll wheel down to sprint toggle (RoR2 naitively only supports binding scroll wheel up). This is specifically useful for the Acrid sprint cancel tech.
+- Binding scroll wheel down to sprint toggle (RoR2 naitively only supports binding scroll wheel up). This is specifically useful for the Acrid sprint cancel tech, which requires 10 sprint inputs per second. Use the scroll wheel instead to avoid carpal tunnel.
 
 ![Acrid sprint cancel tech demo gif](https://github.com/kencul/SprintDoubleBind/blob/main/acridDemo.gif?raw=true)
 
