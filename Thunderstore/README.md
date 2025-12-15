@@ -14,6 +14,8 @@ Allows binding any key, mouse button and mouse scroll up and down to toggle spri
 
 ![Acrid sprint cancel tech demo gif](https://github.com/kencul/SprintDoubleBind/blob/main/acridDemo.gif?raw=true)
 
+***WARNING: This tech is very powerful and this mod makes it mindless. It does absurd damage and gives regen. This will trivialize every acrid run you do.***
+
 ## Features
 
 - **Multi-Input Support**: Toggle sprint using your mouse wheel (up/down) or a custom keyboard/mouse button.
