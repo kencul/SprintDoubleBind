@@ -32,6 +32,9 @@ namespace SprintDoubleBind
 
         public void Awake()
         {
+            // Init our logging class so that we can properly log for debugging
+            Log.Init(Logger);
+
             // Init config
             SprintScrollUpEnabled = Config.Bind(
                 "General",

@@ -1,6 +1,6 @@
 ﻿using BepInEx.Logging;
 
-namespace ExamplePlugin
+namespace SprintDoubleBind
 {
     internal static class Log
     {
