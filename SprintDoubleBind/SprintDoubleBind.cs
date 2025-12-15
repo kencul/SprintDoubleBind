@@ -128,13 +128,15 @@ namespace SprintDoubleBind
                     // check flag for key input from Update()
                     if (_keyPressedThisFrame)
                     {
-                        // fetch if player is sprinting
-                        bool isSprinting = bodyInputs.sprint.down;
+                        //// fetch if player is sprinting
+                        //bool isSprinting = body.isSprinting;
 
-                        // toggle sprint
-                        RoR2.InputBankTest.ButtonState currentSprintState = bodyInputs.sprint;
-                        currentSprintState.down = !isSprinting;
-                        bodyInputs.sprint = currentSprintState;
+                        //// toggle sprint
+                        //RoR2.InputBankTest.ButtonState currentSprintState = bodyInputs.sprint;
+                        //currentSprintState.down = !isSprinting;
+                        //bodyInputs.sprint = currentSprintState;
+
+                        self.sprintInputPressReceived = true;
 
                         // Reset the flag after processing the press.
                         _keyPressedThisFrame = false;
