@@ -26,7 +26,8 @@ Allows binding any key, mouse button and mouse scroll up and down to toggle spri
 
 ## Installation
 
-**Recommended**: Use [r2modman](https://thunderstore.io/package/ebkr/r2modman/)install. The manager 
+**Recommended**: Use [r2modman](https://thunderstore.io/package/ebkr/r2modman/).
+ 
 **Manual**: Install [BepInEx](https://thunderstore.io/package/bbepis/BepInExPack/) and place the mod (and the dependencies) in the `Risk of Rain 2\BepInEx\plugins` folder	
 
 ## Configurable Options
